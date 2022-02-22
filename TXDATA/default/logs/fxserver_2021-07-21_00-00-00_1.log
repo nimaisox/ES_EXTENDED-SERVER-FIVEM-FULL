@@ -1,0 +1,225 @@
+
+================================================================
+======== FXServer starting - 7/21/2021, 3:57:39 PM
+================================================================
+[38;5;161m[    c-scripting-core] Creating script environments for _cfx_internal
+[38;5;73m[ citizen-server-impl] Scanning resources.
+[38;5;73m[ citizen-server-impl] Found 129 resources.
+[38;5;73m[ citizen-server-impl] Some resources have an outdated resource manifest:
+[38;5;73m[ citizen-server-impl]     - vehcontrol
+[38;5;73m[ citizen-server-impl] 
+[38;5;73m[ citizen-server-impl] Please update these resources.
+[38;5;161m[    c-scripting-core] Creating script environments for sessionmanager
+[38;5;73m[ citizen-server-impl] Started resource sessionmanager
+[38;5;161m[    c-scripting-core] Creating script environments for monitor
+[38;5;84m[      script:monitor] [txAdminClient] Version 4.4.1 starting...
+[38;5;73m[ citizen-server-impl] Started resource monitor
+[38;5;161m[    c-scripting-core] Creating script environments for mapmanager
+[38;5;73m[ citizen-server-impl] Started resource mapmanager
+[38;5;161m[    c-scripting-core] Creating script environments for yarn
+[38;5;73m[ citizen-server-impl] Started resource yarn
+[38;5;161m[    c-scripting-core] Creating script environments for webpack
+[38;5;73m[ citizen-server-impl] Started resource webpack
+[38;5;161m[    c-scripting-core] Creating script environments for chat
+[38;5;73m[ citizen-server-impl] Started resource chat
+[38;5;73m[ citizen-server-impl] Started resource spawnmanager
+[38;5;161m[    c-scripting-core] Creating script environments for hardcap
+[38;5;73m[ citizen-server-impl] Started resource hardcap
+[38;5;161m[    c-scripting-core] Creating script environments for mysql-async
+[38;5;73m[ citizen-server-impl] Started resource mysql-async
+[38;5;161m[    c-scripting-core] Creating script environments for cron
+[38;5;73m[ citizen-server-impl] Started resource cron
+[38;5;161m[    c-scripting-core] Creating script environments for instance
+[38;5;73m[ citizen-server-impl] Started resource instance
+[38;5;73m[ citizen-server-impl] Started resource skinchanger
+[38;5;161m[    c-scripting-core] Creating script environments for async
+[38;5;73m[ citizen-server-impl] Started resource async
+[38;5;161m[    c-scripting-core] Creating script environments for es_extended
+[38;5;73m[ citizen-server-impl] Started resource es_extended
+[38;5;73m[ citizen-server-impl] Started resource esx_menu_default
+[38;5;73m[ citizen-server-impl] Started resource esx_menu_dialog
+[38;5;73m[ citizen-server-impl] Started resource esx_menu_list
+[38;5;161m[    c-scripting-core] Creating script environments for esx_datastore
+[38;5;73m[ citizen-server-impl] Started resource esx_datastore
+[38;5;161m[    c-scripting-core] Creating script environments for esx_identity
+[38;5;73m[ citizen-server-impl] Started resource esx_identity
+[38;5;161m[    c-scripting-core] Creating script environments for esx_skin
+[38;5;73m[ citizen-server-impl] Started resource esx_skin
+[38;5;161m[    c-scripting-core] Creating script environments for esx_status
+[38;5;73m[ citizen-server-impl] Started resource esx_status
+[38;5;161m[    c-scripting-core] Creating script environments for esx_basicneeds
+[38;5;73m[ citizen-server-impl] Started resource esx_basicneeds
+[38;5;161m[    c-scripting-core] Creating script environments for esx_billing
+[38;5;73m[ citizen-server-impl] Started resource esx_billing
+[38;5;161m[    c-scripting-core] Creating script environments for esx_addoninventory
+[38;5;73m[ citizen-server-impl] Started resource esx_addoninventory
+[38;5;161m[    c-scripting-core] Creating script environments for esx_addonaccount
+[38;5;73m[ citizen-server-impl] Started resource esx_addonaccount
+[38;5;161m[    c-scripting-core] Creating script environments for esx_society
+[38;5;73m[ citizen-server-impl] Started resource esx_society
+[38;5;161m[    c-scripting-core] Creating script environments for esx_license
+[38;5;73m[ citizen-server-impl] Started resource esx_license
+[38;5;161m[    c-scripting-core] Creating script environments for esx_service
+[38;5;73m[ citizen-server-impl] Started resource esx_service
+[38;5;161m[    c-scripting-core] Creating script environments for esx_jobs
+[38;5;73m[ citizen-server-impl] Started resource esx_jobs
+[38;5;161m[    c-scripting-core] Creating script environments for esx_joblisting
+[38;5;73m[ citizen-server-impl] Started resource esx_joblisting
+[38;5;161m[    c-scripting-core] Creating script environments for esx_vehicleshop
+[38;5;73m[ citizen-server-impl] Started resource esx_vehicleshop
+[38;5;161m[    c-scripting-core] Creating script environments for esx_policejob
+[38;5;73m[ citizen-server-impl] Started resource esx_policejob
+[38;5;161m[    c-scripting-core] Creating script environments for esx_ambulancejob
+[38;5;73m[ citizen-server-impl] Started resource esx_ambulancejob
+[38;5;161m[    c-scripting-core] Creating script environments for esx_taxijob
+[38;5;73m[ citizen-server-impl] Started resource esx_taxijob
+[38;5;161m[    c-scripting-core] Creating script environments for esx_weaponshop
+[38;5;73m[ citizen-server-impl] Started resource esx_weaponshop
+[38;5;161m[    c-scripting-core] Creating script environments for esx_barbershop
+[38;5;73m[ citizen-server-impl] Started resource esx_barbershop
+[38;5;161m[    c-scripting-core] Creating script environments for esx_holdup
+[38;5;73m[ citizen-server-impl] Started resource esx_holdup
+[38;5;161m[    c-scripting-core] Creating script environments for esx_lscustom
+[38;5;73m[ citizen-server-impl] Started resource esx_lscustom
+[38;5;161m[    c-scripting-core] Creating script environments for esx_mechanicjob
+[38;5;73m[ citizen-server-impl] Started resource esx_mechanicjob
+[38;5;161m[    c-scripting-core] Creating script environments for esx_scoreboard
+[38;5;73m[ citizen-server-impl] Started resource esx_scoreboard
+[38;5;161m[    c-scripting-core] Creating script environments for esx_inventoryhud
+[38;5;73m[ citizen-server-impl] Started resource esx_inventoryhud
+[38;5;161m[    c-scripting-core] Creating script environments for esx_inventoryhud_trunk
+[38;5;73m[ citizen-server-impl] Started resource esx_inventoryhud_trunk
+[38;5;161m[    c-scripting-core] Creating script environments for esx_clotheshop
+[38;5;73m[ citizen-server-impl] Started resource esx_clotheshop
+[38;5;161m[    c-scripting-core] Creating script environments for esx_property
+[38;5;73m[ citizen-server-impl] Started resource esx_property
+[38;5;161m[    c-scripting-core] Creating script environments for esx_advancedgarage
+[38;5;73m[ citizen-server-impl] Started resource esx_advancedgarage
+[38;5;161m[    c-scripting-core] Creating script environments for esx_dmvschool
+[38;5;73m[ citizen-server-impl] Started resource esx_dmvschool
+[38;5;161m[    c-scripting-core] Creating script environments for esx_licenseshop
+[38;5;73m[ citizen-server-impl] Started resource esx_licenseshop
+[38;5;73m[ citizen-server-impl] Started resource bob74_ipl
+[38;5;161m[    c-scripting-core] Creating script environments for esx_adminplus
+[38;5;73m[ citizen-server-impl] Started resource esx_adminplus
+[38;5;161m[    c-scripting-core] Creating script environments for gcphone
+[38;5;73m[ citizen-server-impl] Started resource gcphone
+[38;5;161m[    c-scripting-core] Creating script environments for Kl_HudV2
+[38;5;73m[ citizen-server-impl] Started resource Kl_HudV2
+[38;5;73m[ citizen-server-impl] Started resource simpledrift
+[38;5;161m[    c-scripting-core] Creating script environments for EasyAdmin
+[38;5;73m[ citizen-server-impl] Started resource EasyAdmin
+[38;5;161m[    c-scripting-core] Creating script environments for legacyfuel
+[38;5;73m[ citizen-server-impl] Started resource legacyfuel
+[38;5;73m[ citizen-server-impl] Started resource speedometer
+[38;5;161m[    c-scripting-core] Creating script environments for screenshot-basic
+[38;5;73m[ citizen-server-impl] Started resource screenshot-basic
+[38;5;73m[ citizen-server-impl] Started resource pNotify
+[38;5;73m[ citizen-server-impl] Started resource mythic_progbar
+[38;5;73m[ citizen-server-impl] Started resource dpclothing
+[38;5;161m[    c-scripting-core] Creating script environments for dpemotes
+[38;5;73m[ citizen-server-impl] Started resource dpemotes
+[38;5;161m[    c-scripting-core] Creating script environments for fixclean
+[38;5;73m[ citizen-server-impl] Started resource fixclean
+[38;5;73m[ citizen-server-impl] Started resource handsup
+[38;5;161m[    c-scripting-core] Creating script environments for esx_vangelico_robbery
+[38;5;73m[ citizen-server-impl] Started resource esx_vangelico_robbery
+[38;5;161m[    c-scripting-core] Creating script environments for 99kr-shops
+[38;5;73m[ citizen-server-impl] Started resource 99kr-shops
+[38;5;161m[    c-scripting-core] Creating script environments for esx_clip
+[38;5;73m[ citizen-server-impl] Started resource esx_clip
+[38;5;161m[    c-scripting-core] Creating script environments for mumble-voip
+[38;5;73m[ citizen-server-impl] Started resource mumble-voip
+[38;5;161m[    c-scripting-core] Creating script environments for rp-radio
+[38;5;73m[ citizen-server-impl] Started resource rp-radio
+[38;5;73m[ citizen-server-impl] Started resource streetLabel
+[38;5;73m[ citizen-server-impl] Started resource MenuConfig
+[38;5;161m[    c-scripting-core] Creating script environments for esx_doorlock
+[38;5;73m[ citizen-server-impl] Started resource esx_doorlock
+[38;5;161m[    c-scripting-core] Creating script environments for vMenu
+[38;5;165m[        script:vMenu] Instantiated instance of script vMenuServer.BanManager.
+[38;5;165m[        script:vMenu] Instantiated instance of script vMenuServer.MainServer.
+[38;5;73m[ citizen-server-impl] Started resource vMenu
+[38;5;161m[    c-scripting-core] Creating script environments for esx_carlock
+[38;5;73m[ citizen-server-impl] Started resource esx_carlock
+[38;5;73m[ citizen-server-impl] Started resource Seatbelt
+[38;5;73m[ citizen-server-impl] Started resource radio
+[38;5;73m[ citizen-server-impl] Started resource weapons-on-back
+[38;5;73m[ citizen-server-impl] Started resource no-npc
+[38;5;73m[ citizen-server-impl] Started resource default-blips
+[38;5;73m[ citizen-server-impl] Started resource ShowID
+[38;5;161m[    c-scripting-core] Creating script environments for new_banking
+[38;5;73m[ citizen-server-impl] Started resource new_banking
+[38;5;161m[    c-scripting-core] Creating script environments for relisoft_tag
+[38;5;73m[ citizen-server-impl] Started resource relisoft_tag
+[38;5;161m[    c-scripting-core] Creating script environments for 3dme
+[38;5;73m[ citizen-server-impl] Started resource 3dme
+[38;5;161m[    c-scripting-core] Creating script environments for esx_outlawalert
+[38;5;73m[ citizen-server-impl] Started resource esx_outlawalert
+[38;5;161m[    c-scripting-core] Creating script environments for wld-delallveh
+[38;5;73m[ citizen-server-impl] Started resource wld-delallveh
+[38;5;161m[    c-scripting-core] Creating script environments for pAnnounce
+[38;5;73m[ citizen-server-impl] Started resource pAnnounce
+[38;5;161m[    c-scripting-core] Creating script environments for carrypeople
+[38;5;73m[ citizen-server-impl] Started resource carrypeople
+[38;5;73m[ citizen-server-impl] Started resource crouchb
+[38;5;73m[ citizen-server-impl] Started resource utk_ornateprops
+[38;5;161m[    c-scripting-core] Creating script environments for utk_ornateheist
+[38;5;73m[ citizen-server-impl] Started resource utk_ornateheist
+[38;5;73m[ citizen-server-impl] Started resource progressBars
+[38;5;73m[ citizen-server-impl] Started resource mythic_notify
+[38;5;161m[    c-scripting-core] Creating script environments for esx_bankrobberies
+[38;5;73m[ citizen-server-impl] Started resource esx_bankrobberies
+[38;5;161m[    c-scripting-core] Creating script environments for mustache
+[38;5;73m[ citizen-server-impl] Started resource mustache
+[38;5;161m[    c-scripting-core] Creating script environments for esx_discord
+[38;5;73m[ citizen-server-impl] Started resource esx_discord
+[38;5;73m[ citizen-server-impl] Asset pillbox_hospital/gabz_pillbox_textures_01.ytd uses 27.5 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Started resource pillbox_hospital
+[38;5;161m[    c-scripting-core] Creating script environments for vehcontrol
+[38;5;73m[ citizen-server-impl] Started resource vehcontrol
+[38;5;161m[    c-scripting-core] Creating script environments for esx_fbi_job
+[38;5;54m[      script:gcphone] = INFO = Registered number for fbi => Fbi alert
+[38;5;73m[ citizen-server-impl] Started resource esx_fbi_job
+[38;5;161m[    c-scripting-core] Creating script environments for esx_drugs
+[38;5;73m[ citizen-server-impl] Started resource esx_drugs
+[38;5;161m[    c-scripting-core] Creating script environments for nitro
+[38;5;73m[ citizen-server-impl] Started resource nitro
+[38;5;161m[    c-scripting-core] Creating script environments for esx_playtime
+[38;5;73m[ citizen-server-impl] Started resource esx_playtime
+[38;5;161m[    c-scripting-core] Creating script environments for esx_duty
+[38;5;73m[ citizen-server-impl] Started resource esx_duty
+[38;5;161m[    c-scripting-core] Creating script environments for esx_accessories
+[38;5;73m[ citizen-server-impl] Started resource esx_accessories
+[38;5;161m[    c-scripting-core] Creating script environments for esx_jail
+[38;5;73m[ citizen-server-impl] Started resource esx_jail
+[38;5;161m[    c-scripting-core] Creating script environments for esx_tattooshop
+[38;5;73m[ citizen-server-impl] Started resource esx_tattooshop
+[38;5;66m[          svadhesive] Authenticating server license key...
+[38;5;159m[  script:mysql-async] [mysql-async] [SUCCESS] Database server connection established.
+[38;5;84m[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[38;5;128m[    script:EasyAdmin] 
+[38;5;128m[    script:EasyAdmin]  _______ _______ _______ __   __ _______ ______  _______ _____ __   _
+[38;5;128m[    script:EasyAdmin]  |______ |_____| |______   \_/   |_____| |     \ |  |  |   |   | \  |
+[38;5;128m[    script:EasyAdmin]  |______ |     | ______|    |    |     | |_____/ |  |  | __|__ |  \_|
+[38;5;128m[    script:EasyAdmin]                            Version 6.02
+[38;5;220m[  script:es_extended] [es_extended] [INFO] ESX developed by ESX-Org has been initialized
+[38;5;133m[     script:dpemotes] 
+[38;5;133m[     script:dpemotes] dp Emotes (dpemotes) is up to date. (173)
+[38;5;66m[          svadhesive] Server license key authentication succeeded. Welcome!
+[38;5;73m[ citizen-server-impl]         fff                          
+[38;5;73m[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[38;5;73m[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[38;5;73m[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[38;5;73m[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[38;5;73m[ citizen-server-impl]                                      
+[38;5;73m[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://arx-isox-3b9egb.users.cfx.re/
+[38;5;73m[ citizen-server-impl] -- [server notice: tebex_not_set]
+[38;5;73m[ citizen-server-impl] ================
+[38;5;73m[ citizen-server-impl] Monetize your server using Tebex! Visit https://tebex.io/fivem for more info.
+[38;5;73m[ citizen-server-impl] ================
+[38;5;73m[ citizen-server-impl] 
+[38;5;134m[      script:hardcap] Connecting: Nima
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 426 milliseconds
+[38;5;220m[  script:es_extended] [es_extended] [INFO] Saved player "Adsad Dsadsad"
+[38;5;159m[  script:mysql-async] [MariaDB:10.4.19-MariaDB] [WARNING] [esx_status] [160ms] UPDATE users SET status = ? WHERE identifier = ? : ["[{\"name\":\"hunger\",\"percent\":3.91,\"val\":39100},{\"name\":\"thirst\",\"percent\":15.4325,\"val\":154325}]","steam:11000013ff94da8"]
