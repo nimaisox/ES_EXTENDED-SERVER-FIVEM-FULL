@@ -42,8 +42,6 @@ Citizen.CreateThread(function(source)
             for k, v in ipairs(Config_RPS.ReportCats) do
                 JayMenu.MenuButton("~r~~h~"..v[2], v[1])
             end
-             --if JayMenu.Button("~b~~h~Discord : discord.gg/tShuCeU") then end
-            --if JayMenu.Button("~b~~h~Server Developer By : AminMRX & endboy") then end
             JayMenu.Display()
         end
         for k, v in ipairs(Config_RPS.ReportCats) do
@@ -65,9 +63,7 @@ Citizen.CreateThread(function(source)
                         else
                             MF.ShowNotification("~r~Report Khali Ast")
                         end
-                    end
-                     --if JayMenu.Button("~b~~h~Discord : discord.gg/tShuCeU") then end
-                    --if JayMenu.Button("~b~~h~Server Developer By : AminMRX & endboy") then end        
+                    end  
                     JayMenu.Display()
                 else
                     if JayMenu.Button("~g~~h~Report type","~r~~h~"..v[2].."") then end
@@ -78,9 +74,7 @@ Citizen.CreateThread(function(source)
                             args = { "^2Report Shoma Baraye BloodMoon Staff Team Ersal Shod!"}
                         })
                         JayMenu.CloseMenu()
-                    end
-                     --if JayMenu.Button("~b~~h~Discord : discord.gg/tShuCeU") then end
-                    --if JayMenu.Button("~b~~h~Server Developer By : AminMRX & endboy") then end        
+                    end  
                     JayMenu.Display()
                 end
             end
